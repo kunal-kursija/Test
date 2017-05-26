@@ -1,4 +1,4 @@
 Test
 ====
 
-INSULET-1
+insulet-1
